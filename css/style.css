@@ -1,0 +1,16 @@
+
+div.container
+{
+	width     : 100%;
+	max-width : 600px;
+}
+
+div.area
+{
+	text-align : center;
+}
+
+div.head
+{
+	background-color : #ffcdd5;
+}
